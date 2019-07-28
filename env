@@ -1,6 +1,0 @@
-export APP_STAGE="DEVELOPMENT"
-export ASSETS_BASE_URL="/public/"
-export RDS_HOSTNAME="localhost"
-export RDS_DB_NAME="quotesdb"
-export RDS_USERNAME="root"
-export RDS_PASSWORD="f7sD12.EFd"
